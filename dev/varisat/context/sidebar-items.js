@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["config_changed","The solver configuration has changed."],["ensure_var_count","Increases the variable count to at least the given value."],["set_var_count","Update structures for a new variable count."]],"mod":[["parts","Part declarations for the [`Context`] struct."]],"struct":[["Context","Central solver data structure."]]});

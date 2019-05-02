@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["_IMPL_DESERIALIZE_FOR_Lit",""],["_IMPL_DESERIALIZE_FOR_Var",""],["_IMPL_SERIALIZE_FOR_Lit",""],["_IMPL_SERIALIZE_FOR_Var",""]],"struct":[["Lit","A boolean literal."],["Var","A boolean variable."]],"type":[["LitIdx","The backing type used to represent literals and variables."]]});

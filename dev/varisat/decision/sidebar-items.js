@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["make_available","Make a variable available for decisions."],["make_decision","Make a decision and enqueue it."]],"mod":[["vsids","The VSIDS branching heuristic."]]});

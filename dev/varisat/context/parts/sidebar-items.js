@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["ProofP",""]],"struct":[["AnalyzeConflictP",""],["AssignmentP",""],["BinaryClausesP",""],["ClauseActivityP",""],["ClauseAllocP",""],["ClauseDbP",""],["ImplGraphP",""],["IncrementalP",""],["ProofP",""],["ScheduleP",""],["SolverConfigP",""],["SolverStateP",""],["TmpDataP",""],["TrailP",""],["VsidsP",""],["WatchlistsP",""]]});

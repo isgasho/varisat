@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["CnfFormula","A formula in conjunctive normal form (CNF)."]]});
